@@ -2,5 +2,6 @@
 
 ## Design ideas
 
-1. Savings
-2. Transactions
+1. Assets and liabilities
+2. Contracts
+3. Transactions
